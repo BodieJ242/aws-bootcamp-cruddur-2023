@@ -12,6 +12,6 @@
 - Created Lucid Chart 
 
 
-##Bill for KMS
+## Bill for KMS
 
-[Image of Screen shot of Bill](assets/Bill%20for%20KMS.png)
+![Image of Screen shot of Bill](assets/Bill%20for%20KMS.png)
