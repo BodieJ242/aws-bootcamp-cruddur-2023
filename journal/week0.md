@@ -19,4 +19,4 @@
 
 ## Applied AWS Credits
 
-
+![Image of Screen Shot of AWS Credit] (assets/AwsCredits.png)
