@@ -10,7 +10,7 @@
 
 
 ## Created Lucid Chart 
-
+![Image of Screen shot of Lucid chart](assets/Screenshot%202023-02-28%20at%208.51.56%20PM.png)
 
 ##  Created Bill for KMS
 
@@ -19,5 +19,5 @@
 
 ## Applied AWS Credits
 
-![Image of Screen Shot of AWS Credit] (assets/AwsCredits.png)
+![Image of Screen Shot of AWS Credit](assets/AwsCredits.png)
 
