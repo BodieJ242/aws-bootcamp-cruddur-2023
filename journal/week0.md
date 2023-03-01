@@ -9,7 +9,7 @@
 - Created Policy to allow Adm user to view Billing Console.
 
 
-- Created Lucid Chart 
+## Created Lucid Chart 
 
 
 ##  Created Bill for KMS
@@ -20,3 +20,4 @@
 ## Applied AWS Credits
 
 ![Image of Screen Shot of AWS Credit] (assets/AwsCredits.png)
+
