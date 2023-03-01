@@ -24,4 +24,27 @@
 ![Image of Screen Shot of AWS Credit](assets/AwsCredits.png)
 
 
-## Launch Cloud Shell 
+## AWS CLI
+
+Launched cloudshell and enabled AWS Auto Prompt
+
+Command line options enable or disable auto-prompt for a single command. Use --cli-auto-prompt to call auto-prompt and --no-cli-auto-prompt to disable auto-prompt.
+
+    How it works
+If enabled, the auto-prompt enables you to use the ENTER key to complete a partially entered command. After pressing the ENTER key, commands, parameters, and resources are suggested based on what you continue to type. The suggestions list the name of the command, parameter, or resource on the left and a description of it on the right. To select and use a suggestion, use the arrows keys to highlight a row, and then press the SPACE key. When you've finished entering in your command, press ENTER to use the command. The following example demonstrates what a suggested list from auto-prompt looks like.
+
+
+##Install AWS CLI within Gitpod
+curl "https://awscli.amazonaws.com/awscli-exe-linux-x86_64-2.0.30.zip" -o "awscliv2.zip"
+unzip awscliv2.zip
+sudo ./aws/install
+
+Sudo means = Super user DO
+
+
+How to set Environment Variables
+
+
+export AWS_ACCESS_KEY_ID=AKIAIOSFODNN7EXAMPLE
+export AWS_SECRET_ACCESS_KEY=wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY
+export AWS_DEFAULT_REGION=us-west-2
