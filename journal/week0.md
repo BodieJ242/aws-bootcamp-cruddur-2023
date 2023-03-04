@@ -30,7 +30,7 @@ Launched cloudshell and enabled AWS Auto Prompt
 
 Command line options enable or disable auto-prompt for a single command. Use --cli-auto-prompt to call auto-prompt and --no-cli-auto-prompt to disable auto-prompt.
 
-    How it works
+How it works
 If enabled, the auto-prompt enables you to use the ENTER key to complete a partially entered command. After pressing the ENTER key, commands, parameters, and resources are suggested based on what you continue to type. The suggestions list the name of the command, parameter, or resource on the left and a description of it on the right. To select and use a suggestion, use the arrows keys to highlight a row, and then press the SPACE key. When you've finished entering in your command, press ENTER to use the command. The following example demonstrates what a suggested list from auto-prompt looks like.
 
 
@@ -45,6 +45,6 @@ Sudo means = Super user DO
 How to set Environment Variables
 
 
-export AWS_ACCESS_KEY_ID=AKIAIOSFODNN7EXAMPLE
-export AWS_SECRET_ACCESS_KEY=wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY
-export AWS_DEFAULT_REGION=us-west-2
+        export AWS_ACCESS_KEY_ID=AKIAIOSFODNN7EXAMPLE
+        export AWS_SECRET_ACCESS_KEY=wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY
+        export AWS_DEFAULT_REGION=us-west-2
