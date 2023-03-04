@@ -42,7 +42,7 @@ sudo ./aws/install
 Sudo means = Super user DO
 
 
-How to set Environment Variables
+## How to set Environment Variables
 
 
         export AWS_ACCESS_KEY_ID=AKIAIOSFODNN7EXAMPLE
